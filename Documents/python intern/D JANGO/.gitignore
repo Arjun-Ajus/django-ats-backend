@@ -1,0 +1,10 @@
+# Environment & Secrets
+.env
+.venv/
+venv/
+__pycache__/
+
+# Django
+*.sqlite3
+media/
+staticfiles/
